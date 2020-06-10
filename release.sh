@@ -20,7 +20,6 @@ change2git(){
     git submodule set-url luci-apps/luci-app-arpbind git@github.com:awesome-openwrt/luci-app-arpbind.git
     git submodule set-url luci-apps/luci-app-autoreboot git@github.com:awesome-openwrt/luci-app-autoreboot.git
     git submodule set-url luci-apps/luci-app-clash git@github.com:awesome-openwrt/luci-app-clash.git
-    git submodule set-url luci-apps/luci-app-control-mia git@github.com:awesome-openwrt/luci-app-control-mia.git
     git submodule set-url luci-apps/luci-app-control-timewol git@github.com:awesome-openwrt/luci-app-control-timewol.git
     git submodule set-url luci-apps/luci-app-control-webrestriction git@github.com:awesome-openwrt/luci-app-control-webrestriction.git
     git submodule set-url luci-apps/luci-app-control-weburl git@github.com:awesome-openwrt/luci-app-control-weburl.git
@@ -71,7 +70,6 @@ change2https(){
     git submodule set-url luci-apps/luci-app-arpbind https://github.com/awesome-openwrt/luci-app-arpbind.git
     git submodule set-url luci-apps/luci-app-autoreboot https://github.com/awesome-openwrt/luci-app-autoreboot.git
     git submodule set-url luci-apps/luci-app-clash https://github.com/awesome-openwrt/luci-app-clash.git
-    git submodule set-url luci-apps/luci-app-control-mia https://github.com/awesome-openwrt/luci-app-control-mia.git
     git submodule set-url luci-apps/luci-app-control-timewol https://github.com/awesome-openwrt/luci-app-control-timewol.git
     git submodule set-url luci-apps/luci-app-control-webrestriction https://github.com/awesome-openwrt/luci-app-control-webrestriction.git
     git submodule set-url luci-apps/luci-app-control-weburl https://github.com/awesome-openwrt/luci-app-control-weburl.git
