@@ -1,9 +1,6 @@
 [submodule "luci-apps/luci-app-arpbind"]
 	path = luci-apps/luci-app-arpbind
 	url = git@github.com:awesome-openwrt/luci-app-arpbind.git
-[submodule "luci-apps/luci-app-control-mia"]
-	path = luci-apps/luci-app-control-mia
-	url = git@github.com:awesome-openwrt/luci-app-control-mia.git
 [submodule "luci-apps/luci-app-control-timewol"]
 	path = luci-apps/luci-app-control-timewol
 	url = git@github.com:awesome-openwrt/luci-app-control-timewol.git
